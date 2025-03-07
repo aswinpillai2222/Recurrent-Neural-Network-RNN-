@@ -11,6 +11,9 @@ Training and evaluation on custom datasets
 Hyperparameter tuning for model optimization
 Integration with TensorFlow/Keras & PyTorch
 
+📂Dataset
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 📂 Project Structure
 ├── data/                   # Dataset folder
 │   ├── train.csv           # Training data
